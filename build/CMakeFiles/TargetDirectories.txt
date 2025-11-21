@@ -1,0 +1,8 @@
+/home/dexterding/tensora_cpu/build/CMakeFiles/tensora_cpu.dir
+/home/dexterding/tensora_cpu/build/CMakeFiles/test.dir
+/home/dexterding/tensora_cpu/build/CMakeFiles/edit_cache.dir
+/home/dexterding/tensora_cpu/build/CMakeFiles/rebuild_cache.dir
+/home/dexterding/tensora_cpu/build/tests/CMakeFiles/tensora_basic_test.dir
+/home/dexterding/tensora_cpu/build/tests/CMakeFiles/test.dir
+/home/dexterding/tensora_cpu/build/tests/CMakeFiles/edit_cache.dir
+/home/dexterding/tensora_cpu/build/tests/CMakeFiles/rebuild_cache.dir

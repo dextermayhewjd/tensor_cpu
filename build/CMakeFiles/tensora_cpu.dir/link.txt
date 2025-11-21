@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtensora_cpu.a CMakeFiles/tensora_cpu.dir/src/tensor.cpp.o
+/usr/bin/ranlib libtensora_cpu.a
